@@ -1,1 +1,26 @@
+#include <iostream>
+using namespace std;
 
+int power(int base , int power1){
+    if(power1 != 0){
+        return (base * power(base,power1-1)) ;
+    }
+    else{
+        return 1 ;
+    }
+}
+
+
+int main(){
+    
+    int x, n ;
+    cout<<" Enter the base :"<<endl ;
+    cin>> x ;
+    cout<<"Enter the power:"<<endl ;
+    cin>>n ;
+
+    int output = power(x , n) ;
+    cout<<"Your Output is :"<<output ;    
+
+    return 0 ;
+}
