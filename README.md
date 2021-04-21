@@ -3,3 +3,4 @@
 #### 2. A program to print N natural no. using recursion
 #### 3. To find out and return the number of digits present in a number recursively
 #### 4. To find the sum of given array using recursion
+#### 5. To check if no. is present in the array using recursion.
