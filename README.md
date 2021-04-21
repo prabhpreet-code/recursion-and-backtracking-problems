@@ -8,3 +8,4 @@
 #### 7. To find all the indexes of given no. in the array using recursion
 #### 8. Given two integers m & n, calculate and return their multiplication using recursion. You can only use subtraction and addition for your calculation. No other operators are allowed.
 ### 9. To find no. of zeroes present in the no. using recursion
+### 10. To calculate the geometric series
