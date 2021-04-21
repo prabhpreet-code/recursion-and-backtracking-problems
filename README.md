@@ -4,3 +4,4 @@
 #### 3. To find out and return the number of digits present in a number recursively
 #### 4. To find the sum of given array using recursion
 #### 5. To check if no. is present in the array using recursion.
+#### 6. To print the index of first occurence of the given no. in array using recursion
