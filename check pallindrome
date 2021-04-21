@@ -1,0 +1,30 @@
+    #include <iostream>
+    using namespace std;
+
+    bool pallindrome(string n , int b , int a=0 )
+    {   
+        if(a >= b){
+            return true ;
+        }
+
+        if(n[a] != n[b]){
+             return pallindrome(n , b-1 , a+1) ;
+        }
+        else {
+            return false;
+        }
+    }
+    int main()
+    {
+
+        string m="helle";
+        int x = m.size() ;
+        bool output = pallindrome(m , x);
+        if(output == true){
+            cout<<"yes its pallindrome" ;
+        }
+        else {
+            cout<<"sorry its not" ;
+        }
+        return 0;
+    }
