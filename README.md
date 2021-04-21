@@ -5,3 +5,4 @@
 #### 4. To find the sum of given array using recursion
 #### 5. To check if no. is present in the array using recursion.
 #### 6. To print the index of first occurence of the given no. in array using recursion
+#### 7. To find all the indexes of given no. in the array using recursion
