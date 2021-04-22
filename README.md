@@ -14,3 +14,4 @@
 #### 13. To replace the 'pi' with 3.14 in given string using recursion .
 #### 14. To remove x present in the string using recursion
 #### 15. To convert the string type 'number' to integer type number
+#### 16. Given a string, compute recursively a new string where identical chars that are adjacent in the original string are separated from each other by a "*".
