@@ -17,3 +17,4 @@
 #### 16. Given a string, compute recursively a new string where identical chars that are adjacent in the original string are separated from each other by a "*"
 #### 17. To print the steps to solve the problem of tower of hanoi for n number of rings using recursion
 #### 18. To replace one character with another in the given string using recursion
+#### 19. To delete the duplicate character present in the string using recursion
