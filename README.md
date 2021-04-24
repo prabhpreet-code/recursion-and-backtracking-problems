@@ -19,3 +19,4 @@
 #### 18. To replace one character with another in the given string using recursion
 #### 19. To delete the duplicate character present in the string using recursion
 #### 20. To sort the given array using quick-sort algorithm by recursion
+#### 21. To find out all the possible subsequences of a string using recursion
