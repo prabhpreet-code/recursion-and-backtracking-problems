@@ -20,13 +20,13 @@ int partitionArray(int input[], int start, int end) {
      
     int i = start, j = end;
     while(i <= pivotIndex && j >= pivotIndex) {
-        while(input[i] <= pivot) {
+        if(input[i] <= pivot) {
             i++;
         }
-        while(input[j] > pivot) {
+        else if(input[j] > pivot) {
             j--;
         }
-        if(i < pivotIndex && j > pivotIndex) {
+        else {
             int temp = input[i];
             input[i] = input[j];
             input[j] = temp;
