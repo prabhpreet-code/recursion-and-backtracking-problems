@@ -1,4 +1,11 @@
-    #include <iostream>
+ /* By this method we can directly print out all the possible subsequences without saving it somewhere 
+    thus , it can save lots of space in our program */
+  
+  
+*************************************************************************************************************************
+  
+  
+  #include <iostream>
     #include <string>
     using namespace std;
 
