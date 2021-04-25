@@ -20,3 +20,4 @@
 #### 19. To delete the duplicate character present in the string using recursion
 #### 20. To sort the given array using quick-sort algorithm by recursion
 #### 21. To find out all the possible subsequences of a string using recursion
+#### 22. To print the keypad combinations of the string using recursion
