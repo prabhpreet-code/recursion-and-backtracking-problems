@@ -22,3 +22,7 @@
 #### 21. To return all the possible subsequences of a string using recursion
 #### 22. To print the keypad combinations of a string using recursion
 #### 23. To print all the subsequences of a string using recursion
+#### 24. Suppose you have a string made up of only 'a' and 'b'. Write a recursive function that checks if the string was generated using the following rules:
+a. The string begins with an 'a'
+b. Each 'a' is followed by nothing or an 'a' or "bb"
+c. Each "bb" is followed by nothing or an 'a'
