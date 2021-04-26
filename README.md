@@ -30,3 +30,4 @@ c. Each "bb" is followed by nothing or an 'a'
 #### 26. To find the given element in the array using recursion
 #### 27. To return the subset of an array using recursion approach 
 #### 28. To print the subset of an array using recursion directly without saving it in any another array
+#### 29. Given an array A of size n and an integer K, return all subsets of A which sum to K.
