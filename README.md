@@ -36,3 +36,4 @@ c. Each "bb" is followed by nothing or an 'a'
 #### 31. To find the last occurence of a number in a given array using recursion
 #### 32. To sort an array with bubble sort using recursion 
 #### 33. To sort an array using merge sort using recursion
+#### 34. To find the count in the array using recursion if a[i]>a[j] 
