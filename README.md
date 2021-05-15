@@ -32,3 +32,4 @@ c. Each "bb" is followed by nothing or an 'a'
 #### 28. To print the subset of an array using recursion directly without saving it in any another array
 #### 29. Given an array A of size n and an integer K, return all subsets of A which sum to K.
 #### 30 . Assume that the value of a = 1, b = 2, c = 3, ... , z = 26. You are given a numeric string S. Write a program to return the list of all possible codes that can be generated from the given string.
+#### 31. To find the last occurence of a number in a given array using recursion
