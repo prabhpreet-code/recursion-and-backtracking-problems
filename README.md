@@ -35,3 +35,4 @@ c. Each "bb" is followed by nothing or an 'a'
 #### 30 . Assume that the value of a = 1, b = 2, c = 3, ... , z = 26. You are given a numeric string S. Write a program to return the list of all possible codes that can be generated from the given string.
 #### 31. To find the last occurence of a number in a given array using recursion
 #### 32. To sort an array with bubble sort using recursion 
+#### 33. To sort an array using merge sort using recursion
