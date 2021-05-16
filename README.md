@@ -37,3 +37,5 @@ c. Each "bb" is followed by nothing or an 'a'
 #### 32. To sort an array with bubble sort using recursion 
 #### 33. To sort an array using merge sort using recursion
 #### 34. To find the count in the array using recursion if a[i]>a[j] 
+#### 35. Given n friends, each one can remain single or can be paired up with some other friend. Each friend can be paired only once. Find out the total number of ways in which friends can remain single or can be paired up. 
+ 
