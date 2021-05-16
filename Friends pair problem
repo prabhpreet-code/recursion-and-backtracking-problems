@@ -1,0 +1,25 @@
+#include<iostream>
+#include<bits/stdc++.h>
+
+using namespace std ;
+
+
+int friendsPair(int num ){
+    if (num == 0 || num == 1)
+    {
+        return 1 ;
+    }
+    
+    int x = friendsPair(num-1) + (num-1)*friendsPair(num-2) ;
+    
+    return x ;
+    
+}
+
+ int main(){
+     int num ;
+     cout<<"Enter the number of friends "<<endl ;
+     cin>>num ;
+     cout<<friendsPair(num) ;
+    
+}
