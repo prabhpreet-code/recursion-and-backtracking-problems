@@ -1,0 +1,32 @@
+#include <iostream>
+#include <string>
+    using namespace std;
+
+    int knapSack(int arr[] , int weight[] , int wt , int n)
+    {
+        if (wt==0 || n==0)
+        {
+            return 0 ;
+        }
+        int inc=0, exc=0 ;
+        if (weight[n-1] <= wt)
+        {
+                inc = arr[n-1]+knapSack(arr , weight , wt-weight[n-1] , n-1) ;
+        }
+        exc = knapSack(arr , weight , wt , n-1) ;
+         
+        return max(inc , exc) ;
+        
+    }
+
+    int main()
+    {
+        int arr[] = {40,20,30,100} , wt;
+        int weight[] = {1,2,3,5} ;
+        cout << "Enter the desired weight" << endl;
+        cin >> wt;
+        int n = sizeof(arr)/sizeof(arr[0]) ;
+        int output = knapSack(arr , weight , wt ,n);
+        cout<<output<<endl ;
+        return 0;
+    }
