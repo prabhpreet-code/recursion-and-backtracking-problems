@@ -40,3 +40,4 @@ c. Each "bb" is followed by nothing or an 'a'
 #### 35. Given n friends, each one can remain single or can be paired up with some other friend. Each friend can be paired only once. Find out the total number of ways in which friends can remain single or can be paired up. 
 #### 36. Write a function to generate all possible n pairs of balanced parentheses. 
 #### 37. To solve the knapsack problem  
+#### 38. To print smart keypad advance
