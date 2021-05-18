@@ -42,3 +42,4 @@ c. Each "bb" is followed by nothing or an 'a'
 #### 37. To solve the knapsack problem  
 #### 38. To print smart keypad advance
 #### 39 . To find the path from source to destination for rat in a maze
+#### 40 . To find all the paths from source to destination for rat in a maze 
