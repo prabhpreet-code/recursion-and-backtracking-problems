@@ -46,3 +46,4 @@ c. Each "bb" is followed by nothing or an 'a'
 #### 41. To compute all the permutations of the given string
 #### 42. To solve the sudoku puzzle by using backtracking
 #### 43. To solve the N Queen problem and find the solution
+#### 44. To count all the possibilities to solve N-Queen problem
