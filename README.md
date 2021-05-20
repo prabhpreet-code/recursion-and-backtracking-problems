@@ -45,3 +45,4 @@ c. Each "bb" is followed by nothing or an 'a'
 #### 40 . To find all the paths from source to destination for rat in a maze 
 #### 41. To compute all the permutations of the given string
 #### 42. To solve the sudoku puzzle by using backtracking
+#### 43. To solve the N Queen problem and find the solution
