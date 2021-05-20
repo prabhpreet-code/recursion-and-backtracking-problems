@@ -47,3 +47,4 @@ c. Each "bb" is followed by nothing or an 'a'
 #### 42. To solve the sudoku puzzle by using backtracking
 #### 43. To solve the N Queen problem and find the solution
 #### 44. To count all the possibilities to solve N-Queen problem
+#### 45. N-Queen problem more efficient solution
