@@ -48,3 +48,4 @@ c. Each "bb" is followed by nothing or an 'a'
 #### 43. To solve the N Queen problem and find the solution
 #### 44. To count all the possibilities to solve N-Queen problem
 #### 45. N-Queen problem more efficient solution
+#### 46. You are given an array of numbers and a target number , print all unique combinations in the array whose sum equals the target number . Note that each number in the array may only be used once in the combination.
